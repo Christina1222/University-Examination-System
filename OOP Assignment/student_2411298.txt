@@ -1,0 +1,35 @@
+2411298
+Dominic
+011-1234567
+Faculty of Computer Science
+2021
+2.5625
+3.4
+120
+Diploma in Information Technology
+5
+CS101
+Introduction to Interface Design
+78.0
+B
+3
+CS102
+Software Development Fundamentals
+65.0
+C
+4
+MA101
+Calculus and Algebra
+82.0
+B
+3
+CS103
+Introduction to Cybersecurity
+59.5
+C
+3
+CS104
+Database Development and Applications
+71.0
+B
+3

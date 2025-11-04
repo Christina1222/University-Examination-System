@@ -1,0 +1,35 @@
+2402276
+Charlie
+014-1122334
+Faculty of Arts
+2023
+3.0
+3.1
+60
+Bachelor of Arts in Psychology
+5
+PS101
+Abnormal Psychology
+72.0
+B
+3
+PS102
+Personality Theories
+68.5
+C
+3
+PS103
+Biopsychology
+79.0
+B
+3
+PS104
+Psychological Assessment
+84.5
+B
+3
+PS105
+Experimental Psychology
+70.0
+B
+4

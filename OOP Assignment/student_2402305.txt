@@ -1,0 +1,35 @@
+2402035
+Bob
+013-4567890
+Faculty of Business
+2020
+3.8
+3.7
+150
+Bachelor of Business Administration
+5
+BA101
+Organizational Behavior
+90.0
+A
+3
+BA102
+International Business
+85.5
+A
+3
+BA103
+Managerial Accounting
+78.0
+B
+4
+BA104
+Corporate Finance
+82.5
+B
+3
+BA105
+Quantitative Studies
+75.0
+B
+3

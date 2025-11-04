@@ -1,0 +1,35 @@
+2402401
+Alice
+012-9876543
+Faculty of Engineering
+2022
+3.8
+3.3
+90
+Bachelor of Electrical Engineering
+5
+EE101
+Electrical Machines
+88.0
+A
+4
+EE102
+Microprocessors and Microcontrollers
+76.5
+B
+3
+EE103
+Control Systems
+92.0
+A
+4
+EE104
+Power Systems
+80.0
+B
+3
+EE105
+Signals and Systems
+70.5
+B
+3
