@@ -29,18 +29,6 @@ User Management – Provides secure login and access control for Admins, Staff, 
 
 💾 Encapsulation, Inheritance & Polymorphism implemented throughout
 
-
-🗂️ File Structure
-Module	Description
-Student.java	Defines student attributes and actions
-Staff.java	Handles staff operations and grade management
-Admin.java	Provides full system access for data management
-Course.java	Stores course details and associations
-Faculty.java	Organizes staff and courses under faculties
-Main.java	Entry point; integrates all modules and menus
-UML Diagram.png	Visual class structure of the system
-AACS2204 OOP Report - G3.pdf	Full project documentation
-
 🏫 Institution
 Tunku Abdul Rahman University of Management and Technology (TAR UMT)
 Programme: Diploma in Information Technology
